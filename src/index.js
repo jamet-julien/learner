@@ -1,4 +1,5 @@
-import { Learner, Signal} from './class/learner.js';
+import Signal  from './class/signal.js';
+import Learner from './class/learner.js';
 
 
 var oLearner = new Learner({
